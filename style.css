@@ -1,0 +1,19 @@
+summary{
+    font-size: 20px;
+    font-family: cursive;  
+}
+details{
+    margin: 20px;
+    background-color: lightslategray;
+    border-radius: 10px;
+}
+.q_display{
+    color: mediumvioletred;
+    font-style: normal;
+}
+button{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    background-color: coral;
+}
